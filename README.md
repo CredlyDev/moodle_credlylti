@@ -1,2 +1,1 @@
-# moodle_credlylti
-Credly CLE plugin for Moodle, to demonstrate authentication through the Credly CLE SDK
+* https://docs.moodle.org/34/en/Publish_as_LTI_tool
