@@ -1,4 +1,12 @@
 <?php
+/**
+ * Credly LTI plugin for Moodle
+ *
+ * @package   block_credlylti
+ * @copyright 2017 Credly {@link http://credly.com}
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
 require_once($CFG->libdir.'/filelib.php');
 require_once(dirname(__FILE__) . '/../../lib/oauthlib.php');
 

@@ -1,3 +1,11 @@
+/**
+ * Credly LTI plugin for Moodle
+ *
+ * @package   block_credlylti
+ * @copyright 2017 Credly {@link http://credly.com}
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
 .credlylti #region-main .card-block {
 	margin: 0;
 	padding: 0;

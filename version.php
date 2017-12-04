@@ -1,8 +1,8 @@
 <?php
 /**
- * Version information
+ * Credly LTI plugin for Moodle
  *
- * @package   mod_credlylti
+ * @package   block_credlylti
  * @copyright 2017 Credly {@link http://credly.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

@@ -1,11 +1,11 @@
 <?php
 
 /**
- * A block that provides integration with Credly Open Credit API
+ * Credly LTI plugin for Moodle
  *
- * @package    block_credlylti
- * @copyright  2014-2017 Deds Castillo, MM Development Services (http://michaelmino.com)
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package   block_credlylti
+ * @copyright 2017 Credly {@link http://credly.com}
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 defined('MOODLE_INTERNAL') || die();
 

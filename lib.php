@@ -1,6 +1,6 @@
 <?php
 /**
- * Credly LTI authentication plugin
+ * Credly LTI plugin for Moodle
  *
  * @package   block_credlylti
  * @copyright 2017 Credly {@link http://credly.com}
